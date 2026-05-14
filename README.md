@@ -1,4 +1,4 @@
-# 🚀 Career OS — Zero to World-Class Offer on Autopilot
+# 🚀 Career OS : Zero to World-Class Offer on Autopilot
 
 > A complete, open-source career operating system covering every stage from identity to offer negotiation. Built for ambitious people who want to land the best jobs in the world — systematically.
 
