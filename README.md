@@ -1,6 +1,8 @@
-# 🚀 Career OS : Zero to World-Class Offer on Autopilot
+# Career OS Framework
 
-> A complete, open-source career operating system covering every stage from identity to offer negotiation. Built for ambitious people who want to land the best jobs in the world — systematically.
+> An open-source collection of job-search playbooks, prompts and templates covering identity, applications, networking, interviews and negotiation.
+
+This is a planning framework, not an automated application service or evidence of employment outcomes. Adapt its examples to your own verified experience and review every external message before sending.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)
 ![Modules](https://img.shields.io/badge/Modules-8-blue.svg)
@@ -42,8 +44,8 @@ Whether you're starting from zero or optimizing an active search, this repo give
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/career-os.git
-cd career-os
+git clone https://github.com/aredwan-xyz/career-os-framework.git
+cd career-os-framework
 ```
 
 **Recommended path:**
